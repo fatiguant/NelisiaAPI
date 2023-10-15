@@ -1,0 +1,4 @@
+fr\awezial\fapi\fantasyapi\listeners\player\PlayerQuitListener.class
+fr\awezial\fapi\fantasyapi\Main.class
+fr\awezial\fapi\fantasyapi\mysql\DatabaseManager.class
+fr\awezial\fapi\fantasyapi\listeners\player\PlayerJoinListener.class

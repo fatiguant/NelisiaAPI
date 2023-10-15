@@ -1,0 +1,8 @@
+name: NelisiaAPI
+author: Awezial
+description: API de Nelisia
+version: 1.0-SNAPSHOT
+main: fr.nelisia.core.Main
+commands:
+  game:
+    description: Ouvrir le menu des jeux
